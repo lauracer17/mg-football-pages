@@ -1,2 +1,14 @@
 # mg-football-pages
-HTML page archive and documentation
+
+页面文件整理目录
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
